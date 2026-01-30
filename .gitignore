@@ -1,0 +1,6 @@
+# Ignore everything
+*
+# Only track these
+!fingerprints.jsonl
+!README.md
+!.gitignore
